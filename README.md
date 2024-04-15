@@ -17,10 +17,10 @@ The Below Project has two parts:</h2>
 <li> Have a Code Editor ready to run the code like (Notepad,VSCode,Juypter Notebook)</li>
 <li> In the following code has two libraries  Numpy and Matplotlib </li>
     </ol>
-    <li> a)To install Numpy:
+    <li> To install Numpy:
         Go to Command Prompt
    type the following: pip install numpy </li>
-   <li> b)To install Matplotlib:
+   <li> To install Matplotlib:
      Go to Command Prompt 
         Type the following:
            python -m pip install -U pip
