@@ -18,7 +18,7 @@ The Below Project has two parts:</h2>
 <h2>Employee Behavior Using 1D Cellular Automata</h2>
 <p>In the realm of organizational management, understanding employee behavior, particularly in terms of performance dynamics, is crucial for fostering productivity and growth.
 In this experiment, I used Performance as a factor which has the following factors.</p>
-<ol>States: We start by defining states that represent different levels of performance. For simplicity, let's categorize performance into three states:
+<ol>States: We start by defining states that represent different levels of performance.Let's categorize performance into three states:
 <li>Low performance (0)</li>
 <li>Medium performance (1)</li>
 <li>High performance (2)</li>
